@@ -14,3 +14,5 @@ git add .
 git commit -m "{{MESSAGE}}"
 
 git remote add origin {{URL}}
+
+git push origin {{BRANCH=master}}
