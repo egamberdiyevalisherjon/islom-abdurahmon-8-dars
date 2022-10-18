@@ -10,3 +10,5 @@ git status
 git add {{FILENAME}}
 
 git add .
+
+git commit -m "{{MESSAGE}}"
