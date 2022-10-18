@@ -1,0 +1,12 @@
+git --version
+
+git config --global user.name "{{NAME}}"
+git config --global user.email "{{EMAIL}}"
+
+git init
+
+git status
+
+git add {{FILENAME}}
+
+git add .
