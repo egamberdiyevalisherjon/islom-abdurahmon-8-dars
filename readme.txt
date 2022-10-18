@@ -12,3 +12,5 @@ git add {{FILENAME}}
 git add .
 
 git commit -m "{{MESSAGE}}"
+
+git remote add origin {{URL}}
